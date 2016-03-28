@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Xin Chào!</string>
+    <string name="email">Địa Chỉ Email</string>
+    <string name="password">Mật Khẩu</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="signup">Bạn Chưa Có Tài Khoản? Đăng Ký</string>
+</resources>
